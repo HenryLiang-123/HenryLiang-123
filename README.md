@@ -13,6 +13,15 @@ A collaborative project with the Center for Deep Learning at Northwestern Univer
 ### [Machine Learning Pipeline](https://github.com/HenryLiang-123/ml-pipeline)
 A modular and configurable machine learning pipeline designed to classify cloud types from images. The pipeline can be run locally or inside a docker container, and can save artifacts from the process to anywhere you want.
 
+## Experience
+
+- **Machine Learning Engineer Intern**, Amazon (Current)
+  - Developing a system using LLMs to explain differences in knowledge graph snapshots.
+- **Data Science Intern**, Roblox
+  - Created a diagnostic framework by predicting the probability of extreme impression changes and identifying important contributing factors.
+- **Machine Learning Engineer Intern**, Center for Deep Learning
+  - Built AWS IoT real-time streaming pipelines and automated model retraining processes.
+
 ## Skills
 
 - **Languages**: Python, R, Java, JavaScript
@@ -26,15 +35,6 @@ A modular and configurable machine learning pipeline designed to classify cloud 
   - Northwestern University, McCormick School of Engineering
 - **Bachelor of Science in Applied Mathematics, Bachelor of Science in Statistics**
   - UCLA, College of Letters and Science
-
-## Experience
-
-- **Machine Learning Engineer Intern**, Amazon (Current)
-  - Developing a system using LLMs to explain differences in knowledge graph snapshots.
-- **Data Science Intern**, Roblox
-  - Created a diagnostic framework by predicting the probability of extreme impression changes and identifying important contributing factors.
-- **Machine Learning Engineer Intern**, Center for Deep Learning
-  - Built AWS IoT real-time streaming pipelines and automated model retraining processes.
 
 ## Connect
 
