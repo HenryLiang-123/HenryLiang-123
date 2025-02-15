@@ -1,6 +1,6 @@
 # Henry Liang
 
-Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passion in knowledge graphs, GenAI, and cloud engineering solutions. I am currently purusing a Master's degree at Northwestern University.
+Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passion in knowledge graphs, GenAI, and cloud engineering solutions. I hold a Master's degree in Machine Learning and Data Science from Northwestern University. I currently work as a Data Scientist, working a lot with LLMs.
 
 ## Projects
 
@@ -15,8 +15,10 @@ A modular and configurable machine learning pipeline designed to classify cloud 
 
 ## Experience
 
-- **Machine Learning Engineer Intern**, Amazon (Current)
-  - Developing a system using LLMs to explain differences in knowledge graph snapshots.
+- **Data Scientist II**, Vail Systems (current)
+  - Working on all things LLM with the RAILS (Research on AI in Linguistics and Systems) team.
+- **Machine Learning Engineer Intern**, Amazon
+  - Developed a system using LLMs to explain differences in knowledge graph snapshots.
 - **Data Science Intern**, Roblox
   - Created a diagnostic framework by predicting the probability of extreme impression changes and identifying important contributing factors.
 - **Machine Learning Engineer Intern**, Center for Deep Learning
@@ -24,7 +26,7 @@ A modular and configurable machine learning pipeline designed to classify cloud 
 
 ## Skills
 
-- **Languages**: Python, R, Java, JavaScript
+- **Languages**: Python, R, Java, JavaScript, Rust
 - **ML / AI**: PyTorch, TensorFlow, OpenCV, LangChain, ChatGPT
 - **Big Data**: Spark, SQL, Hadoop, Hive, Trino, MapReduce, Neo4j/Cypher, Tableau
 - **Tools**: AWS, Linux/Unix, Docker, Git/GitHub, Excel
@@ -38,7 +40,7 @@ A modular and configurable machine learning pipeline designed to classify cloud 
 
 ## Connect
 
-- **Email**: [hanliang2023@u.northwestern.edu](mailto:hanliang2023@u.northwestern.edu)
+- **Email**: [henry.liang1025@gmail.com](mailto:henry.liang1025@gmail.com)
 - **LinkedIn**: [linkedin.com/in/henryliang8/](https://www.linkedin.com/in/henryliang8/)
 
 Feel free to explore my repositories to see the work I've done, and don't hesitate to reach out if you have questions or opportunities!
