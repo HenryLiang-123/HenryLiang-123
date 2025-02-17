@@ -1,10 +1,13 @@
 # Henry Liang
 
-Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passion in knowledge graphs, GenAI, and cloud engineering solutions. I hold a Master's degree in Machine Learning and Data Science from Northwestern University. I currently work as a Data Scientist, working a lot with LLMs.
+Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passion in GenAI and DevOps. I hold a Master's degree in Machine Learning and Data Science from Northwestern University. I currently work as a Data Scientist, working a lot with LLMs.
 
 ## Projects
 
-### [Portfolio Website](https://github.com/HenryLiang-123/webllm)
+### [Operating System in Pure Rust](https://github.com/HenryLiang-123/rust-os)
+An ongoing personal project to help me learn low-level programming fundamentals and Rust by creating a small operating system.
+
+### [Portfolio Website]([https://github.com/HenryLiang-123/webllm](https://github.com/HenryLiang-123/HenryLiang-123.github.io))
 A personal website that has a chatbot. You'll be chatting with Qwen2.5 who knows a fact or 2 about me. The project was built using webLLM and webGPU.
 
 ### [CDL Industry Practicum Project: IoT Use Cases](https://github.com/samswain2/CDL-UseCases)
