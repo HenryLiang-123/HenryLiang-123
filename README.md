@@ -4,8 +4,8 @@ Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passi
 
 ## Projects
 
-### [myAttention](https://github.com/HenryLiang-123/myAttention)
-A personal project that builds an encoder-decoder transformer from scratch. It includes logic for word embedding, positional encoding, self attention, and encoder-decoder attention.
+### [Portfolio Website](https://github.com/HenryLiang-123/webllm)
+A personal website that has a chatbot. You'll be chatting with Qwen2.5 who knows a fact or 2 about me. The project was built using webLLM and webGPU.
 
 ### [CDL Industry Practicum Project: IoT Use Cases](https://github.com/samswain2/CDL-UseCases)
 A collaborative project with the Center for Deep Learning at Northwestern University that involved the design, implementation, and maintancence of an IoT streaming data prediction pipeline for three different usecases on AWS.
