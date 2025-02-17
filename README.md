@@ -7,7 +7,7 @@ Hello! Welcome to my GitHub. I'm Henry, a machine learning engineer with a passi
 ### [Operating System in Pure Rust](https://github.com/HenryLiang-123/rust-os)
 An ongoing personal project to help me learn low-level programming fundamentals and Rust by creating a small operating system.
 
-### [Portfolio Website]([https://github.com/HenryLiang-123/webllm](https://github.com/HenryLiang-123/HenryLiang-123.github.io))
+### [Portfolio Website](https://github.com/HenryLiang-123/HenryLiang-123.github.io)
 A personal website that has a chatbot. You'll be chatting with Qwen2.5 who knows a fact or 2 about me. The project was built using webLLM and webGPU.
 
 ### [CDL Industry Practicum Project: IoT Use Cases](https://github.com/samswain2/CDL-UseCases)
